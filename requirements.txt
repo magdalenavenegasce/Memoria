@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scipy==1.10.0
+Pillow
+seaborn
+ipython
+python-decouple
+maskpass==0.3.6
+requests
+casadi
+pyyaml
+joblib
+cmake
