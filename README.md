@@ -94,8 +94,7 @@ Cada señal se puntúa mediante una curva en "U": tanto valores excesivamente ba
 > **Nota metodológica:** los umbrales de aceleración AP del tronco en modo caminadora deben
 > interpretarse con cautela, dado que la literatura reporta una reducción sistemática de la
 > entropía de esta señal en modalidad caminadora respecto a sobre suelo, asociada al
-> fenómeno de entrainment (sincronización sensomotora). Ver limitaciones metodológicas en el
-> capítulo de Conclusiones de la memoria.
+> fenómeno de entrainment (sincronización sensomotora). 
 
 ## Limitaciones conocidas
 
