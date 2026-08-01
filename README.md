@@ -76,8 +76,7 @@ de marcha y CV de cadencia; caminadora usa longitud de paso y doble apoyo, al no
 velocidad variable).
 
 Ajuste adicional: +15 puntos si el paciente presenta historial de caídas (Tinetti 1988),
-con tope de 100 puntos. Clasificación final: **Alto** (≥60 o ≥50 según modalidad), 
-**Moderado**, **Bajo**.
+con tope de 100 puntos. 
 
 ## Estructura del Score Entrópico (0–100 pts, independiente del score clínico)
 
