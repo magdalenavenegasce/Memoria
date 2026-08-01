@@ -30,7 +30,7 @@ from scipy.spatial import KDTree
 from scipy.stats import linregress
 
 from gait_analysissinopensim12 import gait_analysis
-from gait_analysis_offline24espanol_NEW8 import (
+from gait_analysis_offline_modo_caminadora4 import (
     load_trc_opensim,
     pdkv_by_stride_from_trc,
     compute_foot_clearance_from_trc,
